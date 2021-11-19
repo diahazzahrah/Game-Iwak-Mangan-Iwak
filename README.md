@@ -1,2 +1,5 @@
 # Game-Iwak-Mangan-Iwak
-Bahasa Pemrograman Java
+
+Matakuliah Pemrograman Berorientasi Objek
+menggunakan bahasa pemrograman java 
+aplikasi : Greenfoot
